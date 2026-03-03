@@ -128,4 +128,3 @@ These results validate the reliability and effectiveness of the proposed system.
 The Automated LPG Safety System provides a practical, cost-effective, and intelligent solution for gas leakage detection and control. By combining sensing, actuation, and IoT communication, the system enhances safety through timely alerts and automated corrective measures.
 
 
-* Project folder structure format for GitHub
